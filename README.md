@@ -4,6 +4,6 @@ Undergraduate in the joint program between BUPT and Queen Mary University of Lon
 
 - 🎓 Undergrad @ BUPT × QMUL
 - 📚 Coursework done: CS336, CS241N, CS224N
-- 🔬 Currently exploring LLM-driven CUDA kernel generation and optimization
+- 🔬 Currently exploring LLM-driven GPU kernel generation and optimization (CUDA / Triton)
 - 🌐 Personal site: [zyinuo.github.io](https://zyinuo.github.io)
 - ✉️ Reach me: 2152029720@qq.com
