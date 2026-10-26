@@ -1,9 +1,9 @@
-### 嗨，我是赵一诺 👋
+### Hi, I'm Yinuo Zhao 👋
 
-北京邮电大学 × 伦敦玛丽女王大学联合培养本科生，正在往语言模型和 AI Agent 的方向摸索。
+Undergraduate in the joint program between BUPT and Queen Mary University of London, interested in language models and AI agents.
 
-- 🎓 本科在读 ｜ 北京邮电大学 & 伦敦玛丽女王大学
-- 🔭 目前在啃 Stanford CS336《Language Modeling from Scratch》
-- 🧪 这里主要放课程作业和一些练手项目
-- 🌐 个人主页：[zyinuo.github.io](https://zyinuo.github.io)
-- ✉️ 联系我：2152029720@qq.com
+- 🎓 Undergrad @ BUPT × QMUL
+- 📚 Coursework done: CS336, CS241N, CS224N
+- 🔬 Currently exploring LLM-driven CUDA kernel generation and optimization
+- 🌐 Personal site: [zyinuo.github.io](https://zyinuo.github.io)
+- ✉️ Reach me: 2152029720@qq.com
